@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "foundry-vtt-module-template",
+  "title": "Foundry VTT Module Template",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -9,14 +9,9 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
-      "name": "Blackcloud",
-      "url": "https://github.com/Blackcloud010",
-      "discord": "Blackcloud010#5426"
-    },
-    {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "andyp22",
+      "url": "https://github.com/andyp22",
+      "discord": "andyp22#1298"
     }
   ],
   "dependencies": [
